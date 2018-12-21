@@ -13,7 +13,7 @@ TASK
 	for the system using the SAPES system requirements document and / or the ISO / IEC / IEEE 291481 standard (see Sections 7, 8 and 9).
 ```
 
-REQUIRMENTS DOCUMENT
+REQUIREMENTS DOCUMENT
 --------------------------------------------------
 The purpose of this requirements specification document is to define the requirements of the SAPOP System - Support System for the Olympics and Parallel Games, whose main objectives are to help access to the games events that will take place in the 2016 Olympic Games and Paralympics in Rio de Janeiro.
 

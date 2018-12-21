@@ -7,10 +7,10 @@ SAPOP means Support System for the Olympic and Paralympic games, the purpose of 
 TASK
 --------------------------------------------------
 ```bash
-	Taking as an example the Writing Support System (SAPES) requirements document available in the file `ExemploDocRequisitos_SAPES.pdf`:
-	1. Select a software system that is interesting.
-	2. Develop the requirements document, containing functional and quality requirements,
-	for the system using the SAPES system requirements document and / or the ISO / IEC / IEEE 291481 standard (see Sections 7, 8 and 9).
+Taking as an example the Writing Support System (SAPES) requirements document available in the file `ExemploDocRequisitos_SAPES.pdf`:
+1. Select a software system that is interesting.
+2. Develop the requirements document, containing functional and quality requirements,
+for the system using the SAPES system requirements document and / or the ISO / IEC / IEEE 291481 standard (see Sections 7, 8 and 9).
 ```
 
 REQUIREMENTS DOCUMENT

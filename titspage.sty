@@ -1,0 +1,33 @@
+\ProvidesPackage{titspage}[2015/08/10 v.01 an example package^^J for wikibooks]
+
+\newcommand*{\project}[1]{\gdef\@project{#1}%
+}
+\newcommand*{\@project}{\texttt{\string\project} UNSET!}
+
+\newcommand*{\supervisor}[1]{\gdef\@supervisor{#1}%
+}
+\newcommand*{\@supervisor}{\texttt{\string\supervisor} UNSET!}
+
+\renewcommand*{\maketitle}
+{%
+\begin{titlepage}
+\vspace{1cm}
+\centering
+{\scshape\LARGE Universidade de São Paulo\par}
+{\scshape\small Instituto de Ciências Matemáticas e de Computação\par}
+\vspace{1cm}
+{\scshape\Large\@project\unskip\strut\par}
+\vspace{2.5cm}
+{\huge\bfseries\@title\unskip\strut\par}
+\vspace{3cm}
+{\Large\itshape\@author\unskip\strut\par}
+
+%\vfill
+%supervised by\par
+%\@supervisor\unskip\strut\par
+
+\vfill
+{\large \@date\par}
+\end{titlepage}
+}
+\endinput

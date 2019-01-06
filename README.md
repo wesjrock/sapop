@@ -21,6 +21,11 @@ SCOPE
 --------------------------------------------------
 SAPOP allows the registration and consultation of Olympic and Paralympic Games events, Olympic and Paralympic committees, players, sponsors, supporters and spectators. The organization of the Olympics will be able to manage the events (location and date), as well as distribute sponsors and supporters among the events, manufacture of licensed products and rental of intellectual property (game logo, mascot). Each committee will have a register of its players and events that they will attend. After the management of each event, an access interface will be open to the public for consultation and purchase of event tickets.
 
+CREDITS
+--------------------------------------------------
+- Danilo Zecchim Nery
+- Jean Amaro
+- Wesley Tiozzo
 
 MORE INFO
 --------------------------------------------------
